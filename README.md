@@ -1,6 +1,4 @@
-# Lesson 23 - Upgradeability patterns
-
-TO REWATCH LESSON - https://www.youtube.com/watch?v=jytCpp45DS0&ab_channel=EncodeClub
+# Upgradeability patterns
 
 ## Patterns overview
 
@@ -65,8 +63,3 @@ https://docs.openzeppelin.com/contracts/4.x/upgradeable
 ### References
 
 https://docs.openzeppelin.com/upgrades-plugins/1.x/hardhat-upgrades
-
-# Homework
-
-- Create Github Issues with your questions about this lesson
-- Read the references
