@@ -1,5 +1,9 @@
 # Upgradeability patterns
 
+## Purpose
+
+- Purpose of this project is to show that smart contracts upgradibilty is possible and it, actually, shows different patterns to do that.
+
 ## Patterns overview
 
 - Upgrading the immutable
